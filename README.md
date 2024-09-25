@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[mohitkarekar.com](http://mohitkarekar.com) • [@MohitKarekar](https://twitter.com/MohitKarekar)
+
 <!--
 **mohitk05/mohitk05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
